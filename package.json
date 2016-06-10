@@ -1,0 +1,26 @@
+{
+  "name": "hubot-food",
+  "version": "0.1.0",
+  "description": "Take food orders for your group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mentalspike/hubot-food.git"
+  },
+  "keywords": [
+    "hubot-scripts",
+    "food"
+  ],
+  "author": "mentalspike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mentalspike/hubot-food/issues"
+  },
+  "homepage": "https://github.com/mentalspike/hubot-food#readme",
+  "dependencies": {
+    "rsvp": "^3.2.1"
+  }
+}
